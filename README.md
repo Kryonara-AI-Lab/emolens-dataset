@@ -11,7 +11,7 @@
 
 *Predict nuanced human emotion from text and context — beyond positive and negative.*
 
-[🌐 kryonara.ai](https://kryonara.ai) · [📸 @kryonara](https://instagram.com/kryonara) · [Submit Results](#submission)
+[📸 @kryonara](https://instagram.com/kryonara) · [Submit Results](#submission)
 
 </div>
 
@@ -226,6 +226,6 @@ Kryonara is an independent AI product lab building intelligent systems at the in
 ---
 
 <div align="center">
-  <sub>Built with purpose by Kryonara AI Lab · Challenge #001 · 2025</sub>
+  <sub>Built with purpose by Kryonara AI Lab · Challenge #001 · 2026</sub>
 </div>
  
