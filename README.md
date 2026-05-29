@@ -11,7 +11,7 @@
 
 *Predict nuanced human emotion from text and context — beyond positive and negative.*
 
-[📸 @kryonara](https://instagram.com/kryonara) · [Submit Results](#submission)
+ [Submit Results](#submission)
 
 </div>
 
