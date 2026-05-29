@@ -219,8 +219,6 @@ This dataset is released under the [Creative Commons Attribution-NonCommercial 4
 
 Kryonara is an independent AI product lab building intelligent systems at the intersection of language, data, and human behavior. EmoLens is our first open research challenge — with more to come.
 
-- 🌐 [kryonara.ai](https://kryonara.ai)
-- 📸 [@kryonara](https://instagram.com/kryonara)
 - 📧 kryonara@gmail.com
 
 ---
